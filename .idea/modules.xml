@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/housev1.0/house-biz/house-biz.iml" filepath="$PROJECT_DIR$/housev1.0/house-biz/house-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/housev1.0/house-common/house-common.iml" filepath="$PROJECT_DIR$/housev1.0/house-common/house-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/housev1.0/house-parent.iml" filepath="$PROJECT_DIR$/housev1.0/house-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/housev1.0/house-web/house-web.iml" filepath="$PROJECT_DIR$/housev1.0/house-web/house-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/p2ipxd.iml" filepath="$PROJECT_DIR$/.idea/p2ipxd.iml" />
     </modules>
   </component>
